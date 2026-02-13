@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samnang</h1>
+<h3 align="center">Frontend & Backend Developer | Fullstack Learner</h3>
 
-<!--
-**xzidx/xzidx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about Web Development
+- 🌱 Currently building Fullstack Applications
+- 🛠 Working with Nuxt, Strapi & MySQL
+- 🎯 Goal: Become a Professional Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Nuxt.js
+- Strapi
+- Tailwind CSS
+- MySQL
+- Git
+
+---
+
+## 📌 Current Focus
+Building a Human Resource Recruitment System  
+Fullstack Development (Frontend + Backend)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/xzidx
+
+---
+
+⭐ Always learning. Always improving.
