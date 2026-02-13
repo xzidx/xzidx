@@ -22,7 +22,7 @@
 ## 🎥 Project Demo
 
 <p align="center">
-  <img src="assets/demo1.gif" width="600"/>
+  <img src="assets/demo.gif" width="600"/>
 </p>
 
 ---
