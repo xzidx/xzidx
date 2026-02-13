@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 50px;
+        }
+        .typewriter {
+          color: #FFFFFF; /* White Text */
+          font-family: 'Courier New', Courier, monospace;
+          font-size: 22px;
+          font-weight: bold;
+          overflow: hidden; 
+          border-right: 3px solid #FFFFFF; /* White Cursor */
+          white-space: nowrap;
+          margin: 0 auto;
+          letter-spacing: 0.1em;
+          
+          /* typing: types out, pause, types back, pause, repeats */
+          animation: 
+            typing-loop 8s steps(45, end) infinite,
+            blink-caret .75s step-end infinite;
+        }
+
+        @keyframes typing-loop {
+          0%, 10% { width: 0; }             /* Start at nothing */
+          45%, 55% { width: 100%; }         /* Type out and hold */
+          90%, 100% { width: 0; }            /* Delete and hold */
+        }
+
+        @keyframes blink-caret {
+          from, to { border-color: transparent }
+          50% { border-color: #FFFFFF; }
+        }
+      </style>
+      <div class="container">
+        <div class="typewriter">Fullstack Developer | Nuxt &amp; Strapi Enthusiast</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
