@@ -7,6 +7,10 @@
 </p>
 
 
+<p align="center">
+  <img src="tech-stack.svg" width="800" />
+</p>
+
 
 ## 👨‍💻 About Me
 
