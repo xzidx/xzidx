@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samnang</h1>
 <p align="center">
-  <img src="header.svg" width="800" />
+  <img src="img.svg" width="800" />
 </p>
 
 
