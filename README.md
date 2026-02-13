@@ -5,17 +5,11 @@
 
 ## 👨‍💻 About Me
 
-<table align="center">
-  <tr width="120%">
-    <td width="50%">
+<table width="100%">
+  <tr>
+    <td width="50%" align="left">
 
-- 💻 Fullstack Developer  
-- 🚀 Working with Nuxt & Strapi  
-- 🎯 Building HR Recruitment System  
-- 🌱 Always learning  
-
-    </td>
-
+- 💻 **Fullstack Developer** - 🚀 **Working with Nuxt & Strapi** - 🎯 **Building HR Recruitment System** - 🌱 **Always learning** </td>
     <td width="50%" align="center">
       <img src="assets/demo1.gif" width="300"/>
     </td>
