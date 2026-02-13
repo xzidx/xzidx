@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 <table align="center">
-  <tr>
+  <tr width="120%">
     <td width="50%">
 
 - 💻 Fullstack Developer  
