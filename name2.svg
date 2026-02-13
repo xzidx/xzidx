@@ -9,35 +9,41 @@
           height: 50px;
         }
         .typewriter {
-          color: #FFFFFF; /* White Text */
+          color: #FFFFFF;
           font-family: 'Courier New', Courier, monospace;
-          font-size: 22px;
+          font-size: 25px;
           font-weight: bold;
           overflow: hidden; 
-          border-right: 3px solid #FFFFFF; /* White Cursor */
+          border-right: 3px solid #FFFFFF;
           white-space: nowrap;
-          margin: 0 auto;
+          width: 0;
           letter-spacing: 0.1em;
           
-          /* typing: types out, pause, types back, pause, repeats */
+          /* This text-shadow creates the deep glow and shadow depth */
+          text-shadow: 
+            0 0 5px #fff, 
+            0 0 10px #fff, 
+            0 0 20px #fff, 
+            2px 2px 4px rgba(0,0,0,0.8); /* This adds the shadow for depth */
+
           animation: 
             typing-loop 8s steps(45, end) infinite,
             blink-caret .75s step-end infinite;
         }
 
         @keyframes typing-loop {
-          0%, 10% { width: 0; }             /* Start at nothing */
-          45%, 55% { width: 100%; }         /* Type out and hold */
-          90%, 100% { width: 0; }            /* Delete and hold */
+          0%, 10% { width: 0; }
+          45%, 55% { width: 790px; } 
+          90%, 100% { width: 0; }
         }
 
         @keyframes blink-caret {
-          from, to { border-color: transparent }
-          50% { border-color: #FFFFFF; }
+          from, to { border-color: transparent; border-shadow: none; }
+          50% { border-color: #ffffff00; box-shadow: 0 0 15px #ffffff7a; }
         }
       </style>
       <div class="container">
-        <div class="typewriter">Fullstack Developer | Nuxt &amp; Strapi Enthusiast</div>
+        <div class="typewriter">Fullstack Developer | Code, Create, Innovate!</div>
       </div>
     </div>
   </foreignObject>
