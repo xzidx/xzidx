@@ -3,11 +3,11 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
-          width: 800px;
+          width: 900px;
           height: 250px;
           overflow: hidden;
           position: relative;
-          background: #020205; /* Deep space dark blue/black */
+          background: #02020500; /* Deep space dark blue/black */
         }
 
         /* --- LAYER 1: STATIC STARS --- */

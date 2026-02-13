@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="learn.svg" width="800" />
+  <img src="know.svg" width="800" />
 </p>
 
 
