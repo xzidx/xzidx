@@ -22,8 +22,8 @@
           /* This text-shadow creates the deep glow and shadow depth */
           text-shadow: 
             0 0 5px #fff, 
-            0 0 10px #fff, 
-            0 0 20px #fff, 
+            0 0 5px #fff, 
+            0 0 5px #fff, 
             2px 2px 4px rgba(0,0,0,0.8); /* This adds the shadow for depth */
 
           animation: 
@@ -39,7 +39,7 @@
 
         @keyframes blink-caret {
           from, to { border-color: transparent; border-shadow: none; }
-          50% { border-color: #ffffff00; box-shadow: 0 0 15px #ffffff7a; }
+          50% { border-color: #ffffff00; box-shadow: 0 0 15px #ffffff00; }
         }
       </style>
       <div class="container">
