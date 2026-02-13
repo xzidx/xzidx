@@ -1,18 +1,52 @@
-<table width="100%">
+<h1 align="center">Hi 👋, I'm Samnang</h1>
+<h3 align="center">Fullstack Developer | Nuxt & Strapi Enthusiast</h3>
+
+
+
+## 👨‍💻 About Me
+
+<table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
 
-<h2>Hi 👋 I'm Samnang</h2>
-
-💻 Fullstack Developer <br>
-🚀 Nuxt & Strapi Developer <br>
-🎯 Building HR Recruitment System <br>
-🌱 Always learning
+- 💻 Fullstack Developer  
+- 🚀 Working with Nuxt & Strapi  
+- 🎯 Building HR Recruitment System  
+- 🌱 Always learning  
 
     </td>
 
     <td width="50%" align="center">
-      <img src="assets/demo.gif" width="400"/>
+      <img src="assets/demo1.gif" width="300"/>
     </td>
   </tr>
 </table>
+
+---
+## 🎥 Project Demo
+
+<p align="center">
+  <img src="assets/demo.gif" width="600"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+HTML • CSS • JavaScript • Nuxt.js • Strapi • Tailwind CSS • MySQL • Git
+</p>
+
+---
+
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/xzidx">GitHub</a>
+</p>
+
+---
+
+⭐ Always learning. Always building.
