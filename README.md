@@ -14,8 +14,8 @@
 ## 👨‍💻 About Me
 
 <table align="center">
-  <tr>
-    <td width="100%">
+  <tr width="100%">
+    <td width="50%">
 
 - 💻 Fullstack Developer  
 - 🚀 Working with Nuxt & Strapi  
