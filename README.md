@@ -51,4 +51,4 @@ HTML • CSS • JavaScript • Nuxt.js • Strapi • Tailwind CSS • MySQL �
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always learning. Always building..
