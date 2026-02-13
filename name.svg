@@ -1,0 +1,63 @@
+<svg fill="none" viewBox="0 0 800 60" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 60px;
+        }
+
+        .spotlight {
+          font-family: 'Inter', sans-serif;
+          font-size: 45px;
+          font-weight: 900;
+          color: rgba(255, 255, 255, 0.2); /* Dimmed text */
+          position: relative;
+          background: linear-gradient(to right, 
+            transparent 0%, 
+            rgba(255,255,255,1) 50%, 
+            transparent 100%);
+          background-size: 200% 100%;
+          background-clip: text;
+          -webkit-background-clip: text;
+          animation: shine 4s linear infinite;
+          letter-spacing: 2px;
+        }
+
+        @keyframes shine {
+          0% { background-position: 200% 0; }
+          100% { background-position: -200% 0; }
+        }
+
+        /* The Glow that follows the light */
+        .glow-overlay {
+          position: relative;
+          display: inline-block;
+          animation: pulse-glow 4s linear infinite;
+        }
+
+        @keyframes pulse-glow {
+          0%, 100% { filter: drop-shadow(0 0 0px #fff); }
+          50% { filter: drop-shadow(0 0 8px #fff); }
+        }
+
+        .hand {
+          display: inline-block;
+          animation: wave 2s infinite;
+        }
+
+        @keyframes wave {
+          0%, 100% { transform: rotate(0deg); }
+          50% { transform: rotate(10deg); }
+        }
+      </style>
+      <div class="container">
+        <div class="glow-overlay">
+          <div class="spotlight">Hi <span class="hand">👋</span>, I'm Samnang</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
