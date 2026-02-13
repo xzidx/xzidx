@@ -19,6 +19,13 @@
 - 📍 Based in Cambodia
 
 ---
+## 🎥 Project Demo
+
+<p align="center">
+  <img src="assets/demo1.gif" width="600"/>
+</p>
+
+---
 
 ## 🛠 Tech Stack
 
@@ -28,13 +35,7 @@ HTML • CSS • JavaScript • Nuxt.js • Strapi • Tailwind CSS • MySQL �
 
 ---
 
-## 🎥 Project Demo
 
-<p align="center">
-  <img src="assets/demo1.gif" width="600"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
