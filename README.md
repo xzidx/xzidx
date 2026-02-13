@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me
 
-<table align="center">
-  <tr width="100%">
+<table align="center" width="100%">
+  <tr>
     <td width="50%">
 
 - 💻 Fullstack Developer  
