@@ -20,11 +20,7 @@
           letter-spacing: 0.1em;
           
           /* This text-shadow creates the deep glow and shadow depth */
-          text-shadow: 
-            0 0 5px #fff, 
-            0 0 5px #fff, 
-            0 0 5px #fff, 
-            2px 2px 4px rgba(0,0,0,0.8); /* This adds the shadow for depth */
+          
 
           animation: 
             typing-loop 8s steps(45, end) infinite,
