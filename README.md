@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samnang</h1>
-<h3 align="center">Fullstack Developer | Nuxt & Strapi Enthusiast</h3>
+<p align="center">
+  <img src="header.svg" width="800" />
+</p>
 
 
 
