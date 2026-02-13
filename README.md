@@ -11,12 +11,24 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently improving my Fullstack skills
-- 🔧 Working with Nuxt, Strapi & MySQL
-- 🛠 Building a Human Resource Recruitment System
-- 📍 Based in Cambodia
+<table>
+  <tr>
+    <td width="50%">
+
+- 💻 Fullstack Developer  
+- 🚀 Working with Nuxt & Strapi  
+- 🎯 Building HR Recruitment System  
+- 🌱 Always learning  
+
+    </td>
+
+    <td width="50%" align="center">
+      <img src="assets/demo1.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🎥 Project Demo
