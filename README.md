@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="tech-stack.svg" width="800" />
+  <img src="learn.svg" width="800" />
 </p>
 
 
