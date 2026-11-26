@@ -1,52 +1,62 @@
- <!-- GitHub Profile README -->
-
-<p align="center">
-  <img src="name.svg" width="800" alt="Welcome Banner"/>
+ <p align="center">
+  <img src="name.svg" width="850" alt="Samnang"/>
 </p>
 
 <p align="center">
-  <img src="sub2.svg" width="800" alt="Developer Subtitle"/>
+  <img src="sub2.svg" width="850" alt="Full Stack Developer"/>
 </p>
 
 <p align="center">
-  <img src="know.svg" width="800" alt="Developer Introduction"/>
+  <img src="know.svg" width="850" alt="Introduction"/>
 </p>
 
----
+<h2 align="center">ABOUT ME</h2>
 
-## 👨‍💻 About Me
+<p align="center">
+  I'm a Web & Mobile Application Development student passionate about building<br/>
+  modern web applications and solving real-world problems through technology.
+</p>
+
+<p align="center">
+  <img src="assets/demo1.gif" width="420" alt="Coding animation"/>
+</p>
+
+<h2 align="center">WHAT I'M DOING</h2>
 
 <table align="center">
   <tr>
-    <td width="55%">
-
-- 👋 Hi, I'm **Samnang**!
-- 🎓 WMAD Student at PSE Institute.
-- 💻 Aspiring Full Stack Developer.
-- 🌱 Currently learning React & Spring Boot.
-- 🚀 Building real-world web applications.
-- 🎮 Interested in Roblox Game Development.
-- 🎯 Always improving my coding skills.
-- 🤝 Enjoy working with teams and learning new things.
-
+    <td width="50%" align="center">
+      <b>01 / DEVELOPMENT</b>
+      <br/><br/>
+      Building full-stack web applications<br/>
+      and learning modern development tools.
     </td>
-    <td width="45%" align="center">
-      <img src="assets/demo1.gif" width="300" alt="Coding Animation"/>
+    <td width="50%" align="center">
+      <b>02 / CURRENT FOCUS</b>
+      <br/><br/>
+      Exploring React, Spring Boot,<br/>
+      REST APIs and database design.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>03 / PROJECTS</b>
+      <br/><br/>
+      Working on e-commerce platforms<br/>
+      and management systems.
+    </td>
+    <td width="50%" align="center">
+      <b>04 / FUTURE GOALS</b>
+      <br/><br/>
+      Becoming a Full Stack Developer<br/>
+      and exploring game development.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🛍️ **Lumiere Beauty** – Developing a cosmetics shop REST API using Spring Boot and PostgreSQL.
-- 🔐 **Smart Locker System** – Building a locker management system using Laravel.
-- 💡 Exploring new technologies and improving my full-stack development skills.
-
----
-
-## 🛠️ Tech Stack & Tools
+<h2 align="center">TECHNOLOGIES & TOOLS</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,java,spring,postgres,mysql,git,github,docker,vscode&perline=5" />
@@ -54,37 +64,41 @@
 
 ---
 
-## 🎥 Project Demo
+<h2 align="center">FEATURED WORK</h2>
 
 <p align="center">
-  <img src="assets/demo.gif" width="600" alt="Project Demo"/>
+  <img src="assets/demo.gif" width="700" alt="Project showcase"/>
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xzidx&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzidx&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/xzidx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <b>EXPLORE MY PROJECTS →</b>
   </a>
 </p>
 
 ---
 
+<h2 align="center">GITHUB ANALYTICS</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F66B87&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xzidx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F66B87&icon_color=F66B87&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzidx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F66B87&text_color=C9D1D9" height="170"/>
+</p>
+
+---
+
+<h2 align="center">CONNECT</h2>
+
+<p align="center">
+  <a href="https://github.com/xzidx">
+    <img src="https://img.shields.io/badge/GitHub-xzidx-0D1117?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  ⭐ <b>Learning every day, building step by step.</b>
+  <sub>Building. Learning. Improving.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F66B87&height=100&section=footer"/>
 </p>
