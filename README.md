@@ -1,58 +1,41 @@
  <div align="center">
-  <img src="name.svg" width="100%" alt="Samnang"/>
-  <img src="sub2.svg" width="100%" alt="Full Stack Developer"/>
-  <img src="know.svg" width="100%" alt="Introduction"/>
+
+<img src="name.svg" width="850" alt="Samnang"/>
+
+<img src="sub2.svg" width="850" alt="Developer"/>
+
+<img src="know.svg" width="850" alt="Introduction"/>
+
 </div>
 
 ---
 
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
 ## ABOUT ME
 
-<table width="100%">
-<tr>
-<td width="60%" valign="middle">
+I'm a Web & Mobile Application Development student passionate about building modern applications and solving real-world problems through technology.
 
-I'm a Web & Mobile Application Development student passionate about creating modern web applications and solving real-world problems through technology.
-
-- Currently developing full-stack applications.
-- Learning React, Spring Boot and REST API development.
-- Working with PostgreSQL, MySQL and database design.
-- Interested in software engineering and game development.
-- Always exploring new technologies and improving my skills.
+- Currently learning Full Stack Development.
+- Exploring React and Spring Boot.
+- Building REST APIs and database systems.
+- Interested in web applications and game development.
+- Always learning and improving.
 
 </td>
-<td width="40%" align="center">
-  <img src="assets/demo1.gif" width="100%" alt="Coding animation"/>
-</td>
-</tr>
-</table>
+<td width="42%" align="center" valign="middle">
 
----
+<img src="assets/demo1.gif" width="280" alt="Coding animation"/>
 
-## WHAT I'M WORKING ON
+**CURRENTLY FOCUSED ON**
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+Full Stack Development
 
-### 01 — FULL STACK DEVELOPMENT
+Backend Engineering
 
-Building modern web applications with frontend and backend technologies.
-
-### 02 — BACKEND ENGINEERING
-
-Developing REST APIs, managing databases and learning Spring Boot architecture.
-
-</td>
-<td width="50%" valign="top">
-
-### 03 — REAL-WORLD PROJECTS
-
-Working on e-commerce platforms, management systems and practical software solutions.
-
-### 04 — FUTURE EXPLORATION
-
-Improving software development skills and exploring Roblox game development.
+Database Design
 
 </td>
 </tr>
@@ -60,69 +43,162 @@ Improving software development skills and exploring Roblox game development.
 
 ---
 
-## TECHNOLOGIES & TOOLS
+## DEVELOPMENT JOURNEY
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**01 / FRONTEND**
+
+- HTML & CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Responsive Design
+
+</td>
+<td width="33%" valign="top">
+
+**02 / BACKEND**
+
+- Java
+- Spring Boot
+- PHP
+- Laravel
+- REST API
+
+</td>
+<td width="33%" valign="top">
+
+**03 / DATABASE & TOOLS**
+
+- PostgreSQL
+- MySQL
+- Git & GitHub
+- Docker
+- VS Code
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,java,spring,postgres,mysql,git,github,docker,vscode&perline=8" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,java,spring,postgres,mysql,git,github,docker,vscode&perline=8"/>
 </p>
 
 ---
 
-## FEATURED WORK
-
-<p align="center">
-  <img src="assets/demo.gif" width="100%" alt="Project showcase"/>
-</p>
+## SELECTED PROJECTS
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-**EXPLORE MY REPOSITORIES**
+### LUMIERE BEAUTY
 
-<a href="https://github.com/xzidx?tab=repositories">
-  View All Projects →
-</a>
+**Cosmetics E-commerce Backend**
+
+A REST API for managing a multi-brand cosmetics shop.
+
+- Spring Boot
+- Java
+- PostgreSQL
+- REST API
+
+<a href="https://github.com/xzidx">View Repository →</a>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-**SOURCE CODE & CONTRIBUTIONS**
+### SMART LOCKER SYSTEM
+
+**Locker Management Platform**
+
+A web application for managing lockers and locations.
+
+- Laravel
+- PHP
+- PostgreSQL
+- Tailwind CSS
+
+<a href="https://github.com/xzidx/Smart-Locker-System">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### CHERRY CHEEKS
+
+**Cosmetics Shopping Website**
+
+A frontend e-commerce project with product browsing and shopping cart features.
+
+- React
+- JavaScript
+- Tailwind CSS
+- Docker
+
+<a href="https://github.com/xzidx/Cherry-Cheeks-Cosmetic-Shop">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### MORE PROJECTS
+
+**Learning Through Building**
+
+Exploring new ideas, developing practical applications and improving my development skills.
+
+<a href="https://github.com/xzidx?tab=repositories">Explore All Repositories →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## PROJECT SHOWCASE
+
+<p align="center">
+<img src="assets/demo.gif" width="650" alt="Project demonstration"/>
+</p>
+
+---
+
+## GITHUB OVERVIEW
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=xzidx&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzidx&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=BBBBBB"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=xzidx&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+## LET'S CONNECT
+
+<div align="center">
 
 <a href="https://github.com/xzidx">
-  Visit My GitHub →
+<img src="https://img.shields.io/badge/GitHub-xzidx-white?style=flat-square&logo=github&logoColor=black"/>
 </a>
 
-</td>
-</tr>
-</table>
+<br/>
 
----
+**DESIGN · DEVELOP · LEARN · REPEAT**
 
-## GITHUB ANALYTICS
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xzidx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&rank_icon=github" width="100%"/>
-</p>
+<sub>Thanks for visiting my profile.</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzidx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="100%"/>
-</p>
-
----
-
-## CONNECT WITH ME
-
-<p align="center">
-  <a href="https://github.com/xzidx">
-    <img src="https://img.shields.io/badge/GitHub-xzidx-white?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>DESIGN · DEVELOP · LEARN · REPEAT</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
-</p>
+</div>
