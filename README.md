@@ -157,12 +157,38 @@ Exploring new ideas, developing practical applications and improving my developm
 ## PROJECT SHOWCASE
 
 <p align="center">
-  <img src="assets/project-showcase.gif" width="100%" alt="Animated project showcase"/>
+  <img src="assets/project-showcase.gif" width="100%" alt="Developer workspace animation"/>
 </p>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**01 / BUILD**
+
+Turning ideas into code.
+
+</td>
+<td width="33%" align="center">
+
+**02 / CREATE**
+
+Developing real applications.
+
+</td>
+<td width="33%" align="center">
+
+**03 / INNOVATE**
+
+Learning and improving.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/xzidx?tab=repositories">
-    <b>EXPLORE ALL MY PROJECTS →</b>
+    <b>EXPLORE MY WORK →</b>
   </a>
 </p>
 
